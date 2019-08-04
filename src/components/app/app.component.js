@@ -8,7 +8,7 @@ class App extends Component {
     return (
       <div>
         <Header />
-        <div class="root-container">
+        <div className="root-container">
           <h1> Hello, React Set-up!! </h1>
         </div>
         <Footer />
